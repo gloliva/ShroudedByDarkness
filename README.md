@@ -1,6 +1,6 @@
 ![title_card](Assets/IconArt/SplashScreen.PNG) <!-- markdownlint-disable-line -->
 
-https://github.com/gloliva/Shrouded-by-Darkness/assets/16783600/ac10a1aa-99e3-4416-a74c-cdbcf8829c5c
+https://github.com/gloliva/Shrouded-by-Darkness/assets/16783600/ac10a1aa-99e3-4416-a74c-cdbcf8829c5c <!-- markdownlint-disable-line -->
 
 "Shrouded by Darkness" is a spine-tingling top-down 2D horror game revolves around a single, precarious element - light. Delve into the depths of fear and uncertainty as you find yourself trapped in an eerie, enigmatic house cloaked in darkness. You start with nothing and must explore carefully, collecting any weapons and light sources along the way. Do you run or fight back? Do you explore every room for useful resources or do you rush the exit? Do you use your precious sources of light to illuminate the path, drawing enemies towards you, or do you embrace the darkness? The choice is yours, if you can survive...
 
