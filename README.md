@@ -9,7 +9,7 @@
 Download the `ShroudedByDarkness` application from either:
 
 1. [Shrouded by Darkness Itch.io](https://gloliva.itch.io/shrouded-by-darkness) page
-2. [Shrouded by Darkness Github Releases](https://gloliva.itch.io/shrouded-by-darkness) page
+2. [Shrouded by Darkness Github Releases](https://github.com/gloliva/Shrouded-by-Darkness/releases/tag/release-v1.0.0) page
 
 ### *Install Instructions*
 
