@@ -42,6 +42,7 @@ To survive the horrors that await, you must:
 1. **Employ Your Light Sources**: Finding and using sources of light is paramount to your ability to survive and find your escape. But be warned, the larger a light source, the further an enemy is able to detect you.
 2. **Explore Diligently**: Search every corner of the mansion for doors, keys, weapons, and health items that will aid in your escape.
 3. **Manage Your Resources**: Use lights and ammo strategically; if you run out of items you will have to brave the perils of the mansion without them.
+4. **Unlock Blocked Paths**: Many of the doors you encounter will be locked, you must search for keys in order to progress. Some doors will contain valuable resources, whereas other doors are required for your escape.
 
 ## Controls
 
@@ -69,6 +70,16 @@ For an in-depth description of the game mechanics, visual style, and features, t
 
 For a complete overview of the game map, view the following document (*Warning!* Contains game spoilers):  
 **[Map Overview](https://docs.google.com/drawings/d/1H5m1a3PK2eKtwl85023IiG9xRDuMnJB72C35zGUVmoM/edit?usp=sharing)**
+
+### Game Files
+
+Game programming scripts can be found in the [Assets/Scripts](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Scripts) directory. These scripts contain logic for certain game mechanics, such as healing, enemy AI, and how items work.
+
+Art assets can be found in the [Assets/Sprites](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Sprites), [Assets/Animations](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Animations), [Assets/UI](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/UI), and [Assets/IconArt](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/IconArt) directories. These folders contain the images and animation files used for the game's visual style.
+
+Music and Sound FX files can be found in the [Assets/Audio](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Audio) directory.
+
+Additional builds can be found in the [Builds](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Builds) directory. If you have a Windows machine, you can play these builds by double-clicking the `Shrouded by Darkness.exe` executable (you can view them on Mac OS by loading this project into Unity). The `MVP`, `Alpha`, and `Beta` builds represent early stages of the game and are **NOT** the final product. The final game (and the one that is downloaded from itch.io and the releases page) is the `Release` build.
 
 ## Credits
 
