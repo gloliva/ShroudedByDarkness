@@ -73,7 +73,7 @@ To survive the horrors that await, you must:
 
 The below video contains gameplay *SPOILERS*
 
-[![playthrough_thumbnail](media/thumbnails/playthrough.jpg)](https://www.youtube.com/watch?v=NVhhCa1CAVk)
+[![playthrough_thumbnail](media/thumbnails/GameplayThumbnail.png)](https://www.youtube.com/watch?v=NVhhCa1CAVk)
 
 ## Game Details
 
