@@ -1,8 +1,10 @@
-![title_card](Assets/IconArt/SplashScreen.PNG) <!-- markdownlint-disable-line -->
-
-https://github.com/gloliva/Shrouded-by-Darkness/assets/16783600/ac10a1aa-99e3-4416-a74c-cdbcf8829c5c
+![title_card](media/github/SplashScreen.PNG) <!-- markdownlint-disable-line -->
 
 "Shrouded by Darkness" is a spine-tingling top-down 2D horror game revolves around a single, precarious element - light. Delve into the depths of fear and uncertainty as you find yourself trapped in an eerie, enigmatic house cloaked in darkness. You start with nothing and must explore carefully, collecting any weapons and light sources along the way. Do you run or fight back? Do you explore every room for useful resources or do you rush the exit? Do you use your precious sources of light to illuminate the path, drawing enemies towards you, or do you embrace the darkness? The choice is yours, if you can survive...
+
+## Click Below to Watch the Gameplay Trailer
+
+[![!trailer_thumbnail](media/thumbnails/trailer.jpeg)](https://www.youtube.com/watch?v=q82kPNoW5C0)
 
 ## How to Install and Run
 
@@ -48,6 +50,8 @@ To survive the horrors that await, you must:
 
 ## Controls
 
+![controls_menu](media/gifs/ControlsMenu.gif)
+
 ### Movement
 
 `Move Mouse` - Change Player Direction  
@@ -75,15 +79,19 @@ For a complete overview of the game map, view the following document (*Warning!*
 
 ### Game Files
 
-Game programming scripts can be found in the [Assets/Scripts](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Scripts) directory. These scripts contain logic for certain game mechanics, such as healing, enemy AI, and how items work.
+All game files are found in the *unity* directory.
 
-Art assets can be found in the [Assets/Sprites](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Sprites), [Assets/Animations](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Animations), [Assets/UI](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/UI), and [Assets/IconArt](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/IconArt) directories. These folders contain the images and animation files used for the game's visual style.
+Game programming scripts can be found in the [Assets/Scripts](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/Scripts) directory. These scripts contain logic for certain game mechanics, such as healing, enemy AI, and how items work.
 
-Music and Sound FX files can be found in the [Assets/Audio](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Assets/Audio) directory.
+Art assets can be found in the [Assets/Sprites](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/Sprites), [Assets/Animations](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/Animations), [Assets/UI](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/UI), and [Assets/IconArt](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/IconArt) directories. These folders contain the images and animation files used for the game's visual style.
 
-Additional builds can be found in the [Builds](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/Builds) directory. If you have a Windows machine, you can play these builds by double-clicking the `Shrouded by Darkness.exe` executable (you can view them on Mac OS by loading this project into Unity). The `MVP`, `Alpha`, and `Beta` builds represent early stages of the game and are **NOT** the final product. The final game (and the one that is downloaded from itch.io and the releases page) is the `Release` build.
+Music and Sound FX files can be found in the [Assets/Audio](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Assets/Audio) directory.
+
+Additional builds can be found in the [Builds](https://github.com/gloliva/Shrouded-by-Darkness/tree/master/unity/Builds) directory. If you have a Windows machine, you can play these builds by double-clicking the `Shrouded by Darkness.exe` executable (you can view them on Mac OS by loading this project into Unity). The `MVP`, `Alpha`, and `Beta` builds represent early stages of the game and are **NOT** the final product. The final game (and the one that is downloaded from itch.io and the releases page) is the `Release` build.
 
 ## Credits
+
+![credits](media/github/Credits.png)
 
 Shrouded By Darkness was the Final project for the Game Development Decal at UC Berkeley.  
 Made in Unity.
