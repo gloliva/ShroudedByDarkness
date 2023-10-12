@@ -69,6 +69,12 @@ To survive the horrors that await, you must:
 `R` - Switch Weapon  
 `Left Mouse Click` - Attack (with weapon equipped)
 
+## Click Below to Watch a Full Game Playthrough
+
+The below video contains gameplay *SPOILERS*
+
+[![playthrough_thumbnail](media/thumbnails/playthrough.jpg)](https://www.youtube.com/watch?v=NVhhCa1CAVk)
+
 ## Game Details
 
 For an in-depth description of the game mechanics, visual style, and features, the following design document:  
